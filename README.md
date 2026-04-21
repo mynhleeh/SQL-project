@@ -22,6 +22,7 @@ A desktop application for managing student records, built with **Python**, **PyQ
 | `database.py` | SQLite database connection and CRUD queries |
 | `problem.md` | Original task requirements |
 | `README.md` | Project documentation |
+
 *(Note: `university.db` is automatically generated in the root directory upon first execution.)*
 
 ## 🛠️ Technologies Used
